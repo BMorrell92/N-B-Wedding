@@ -603,7 +603,7 @@ section {
 }
 
 .about .image {
-  background: url("/assets/img/gif3.gif") center center no-repeat;
+  background: url("../img/gif3.gif") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -709,7 +709,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("/assets/img/img4.jpg") center center;
+  background: url("../img/img4.jpg") center center;
   background-size: cover ;
   color: #fff;
   font-size: 14px;
