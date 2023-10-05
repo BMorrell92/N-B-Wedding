@@ -783,3 +783,11 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* Media query for smaller devices */
+@media (max-width: 768px) {
+  .skills-content iframe {
+    width: 100%; /* Make the iframe fill the container */
+    height: 100%; /* Maintain aspect ratio */
+  }
+}
