@@ -709,7 +709,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/img4.jpg") center center;
+  background: url("./img/img4.jpg") center center;
   background-size: cover ;
   color: #fff;
   font-size: 14px;
